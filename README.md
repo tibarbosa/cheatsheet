@@ -1,4 +1,4 @@
-# cheatsheets
+# Cheatsheets
 
 Keyboard shortcuts for software
 
